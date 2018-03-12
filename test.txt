@@ -1,2 +1,6 @@
-qiuzhifeng97.cn
+<<<<<<< HEAD
+www.qiuzhifeng97.cn
 a new line
+=======
+www.qiuzhifeng97.cn
+>>>>>>> change_site
